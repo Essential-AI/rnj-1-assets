@@ -33,7 +33,7 @@
   </a>
 
   <!-- Together AI -->
-  <a href="https://api.together.ai/models/essentialai/rnj-1-instruct">
+  <a href="https://www.together.ai/models/rnj-1-instruct">
     <img alt="Together AI"
       src="https://img.shields.io/badge/⚡%20TogetherAI-rnj--1--instruct-00c2a8?color=00c2a8&logoColor=white"/>
   </a>
